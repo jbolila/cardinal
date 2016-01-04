@@ -3,6 +3,7 @@
   "version": "0.6.0",
   "description": "Syntax highlights JavaScript code with ANSI colors to be printed to the terminal.",
   "main": "cardinal.js",
+  "readme": "README.md",
   "scripts": {
     "test": "tap ./test/*.js",
     "demo": "node examples/highlight-string.js; node examples/highlight-self; node examples/highlight-self-hide-semicolons;"
